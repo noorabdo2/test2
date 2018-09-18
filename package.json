@@ -41,6 +41,7 @@
     "winston": "^3.0.0",
     "youtube-info": "^1.2.0",
     "ytdl-core": "^0.21.1",
+    "text2png": "^1.1.1",
     "zalgolize": "^1.2.4"
   }
 }
